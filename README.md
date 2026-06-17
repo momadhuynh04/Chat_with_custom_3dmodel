@@ -47,7 +47,13 @@ The project is highly automated. You only need to follow these two steps:
 
 **PreView**
 
-[![preview](https://youtube.com)](https://youtu.be/_TRZaD-d7ow)
+
+
+
+https://github.com/user-attachments/assets/3e1986f0-9e61-4087-843d-3f156efc0d17
+
+
+
 
 <img width="1864" height="706" alt="image" src="https://github.com/user-attachments/assets/acffd9e5-4014-4889-a893-86ef6d176cd9" />
 
