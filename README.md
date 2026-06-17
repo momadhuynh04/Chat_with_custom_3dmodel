@@ -7,6 +7,7 @@ i use tavern and is a little bit too much so i vibe this this waay simple config
 havnt got alot of resources so i bring up wwhat i have test llm: openrouter, ollma, tts:openrouter,azure, and slot for my modal app (app_voice.py), kokoro(build in) ,img: automatic1111,openrouter, polination(free clound service)
 
 ## Download
+[Here!](https://drive.google.com/file/d/1dVFAHHl19wJvWT5yAaskuiKO2VZ-rXxI/view?usp=sharing)
 
 ---
 
