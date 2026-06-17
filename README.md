@@ -47,7 +47,7 @@ The project is highly automated. You only need to follow these two steps:
 
 **PreView**
 
-<video src="https://youtu.be/_TRZaD-d7ow" width="100%" controls></video>
+[![preview](https://youtube.com)](https://youtu.be/_TRZaD-d7ow)
 
 <img width="1864" height="706" alt="image" src="https://github.com/user-attachments/assets/acffd9e5-4014-4889-a893-86ef6d176cd9" />
 
